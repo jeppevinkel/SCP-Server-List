@@ -10,7 +10,7 @@ Plugin download currently not recommended. Edits to config are enough
 
 ## Installation
 1. Add `master_server_to_contact: http://scpserv.jeppdev.com/server_auth.php` and `secondary_servers_to_contact: http://scpserv.jeppdev.com/server_auth.php` to you config.txt
-2. Make sure you have a verkey.txt int the %appdata% SCP folder. It doesn't matter what the file contains, but at least a single letter
+2. Make sure you have a verkey.txt in the %appdata% SCP folder. It doesn't matter what the file contains, but at least a single letter
 2. Launch the server
 
 ## Usage
