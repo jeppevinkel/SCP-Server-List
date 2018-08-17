@@ -11,9 +11,10 @@ Plugin download currently not recommended. Edits to config are enough
 * [ServerMod2](https://github.com/Grover-c13/Smod2)
 
 ## Installation
-1. Add `master_server_to_contact: http://scpserv.jeppdev.com/server_auth.php` and `secondary_servers_to_contact: http://scpserv.jeppdev.com/server_auth.php` to you config.txt
+1. Add `secondary_servers_to_contact: http://scpserv.jeppdev.com/server_auth.php` to your config.txt
 2. Make sure you have a verkey.txt in the %appdata% SCP folder. It doesn't matter what the file contains, but at least a single letter
 2. Launch the server
+3. (Optional) Add `master_server_to_contact: http://scpserv.jeppdev.com/server_auth.php` to your config.txt if it didn't work with the secondary_servers_to_contact
 
 ## Usage
 All server can be seen on [scpserv.jeppdev.com](https://scpserv.jeppdev.com/)
