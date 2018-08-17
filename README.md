@@ -1,6 +1,6 @@
 [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m778918918-3e92c097147760ee39d02d36.svg)](https://stats.uptimerobot.com/M1oVZip6q)
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/jeppevinkel/SCP-Server-List/releases/latest)
-
+[![GitHub release](https://img.shields.io/github/release/jeppevinkel/SCP-Server-List.svg)](https://github.com/jeppevinkel/SCP-Server-List/releases/latest)
+[![GitHub tag](https://img.shields.io/github/tag/expressjs/express.svg)](https://github.com/jeppevinkel/SCP-Server-List/releases/latest)
 
 # SCP-Server-List
 Plugin for SCP:SL server to add them to a list of SCP servers regardless of being verified or not
