@@ -29,3 +29,7 @@ The latest release can be found here: [Latest release](https://github.com/jeppev
 
 ## Usage
 All server can be seen on [scpserv.jeppdev.com](https://scpserv.jeppdev.com/)
+
+
+
+*This update is for Laserman*
